@@ -9,3 +9,4 @@ This preview is designed for our customers to test out the feature and try our A
 3. Same ARM templates are in the file - Sample ARM Template.zip
 
 Let's get started!
+hi
